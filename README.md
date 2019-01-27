@@ -4,6 +4,7 @@ neofetch but in python but it only supports GNU/Linux (at the time of writing th
 **dependencies**
 
 install these with `pip`
+* distro
 * py-cpuinfo
 
 enjoy
