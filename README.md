@@ -1,5 +1,5 @@
 # fetch.py
-neofetch but in python
+neofetch but in python but it only supports GNU/Linux (at the time of writing this)
 
 **dependencies**
 
